@@ -1,0 +1,15 @@
+[package]
+name = "bug-report"
+version = "0.1.0"
+authors = ["baoyachi <liaoymxsdl@gmail.com>"]
+edition = "2018"
+description = "quick publish crates information"
+keywords = ["build", "bug-report", "env", "compile", "cargo"]
+readme = "README.md"
+categories = ["development-tools", "development-tools::build-utils"]
+repository = "https://github.com/baoyachi/shadow-rs"
+license = "MIT AND Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
